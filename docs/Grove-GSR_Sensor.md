@@ -75,7 +75,7 @@ GSR stands for galvanic skin response, is a method of measuring the electrical c
 |------------------|------- --|
 | GND              | Black  |
 | 5V               |  Red   |
-| NC               | White  |
+| NC (no connection)| White  |
 | A0               | Yellow |
 
 ### Software
